@@ -1,0 +1,44 @@
+h1{
+    font-family: Helvetica;
+font-size: 100px;
+font-weight: bold;
+color: khaki;
+background: url(/pattern.jpeg);
+}
+#brushes{
+    background-color: mediumspringgreen;
+    font-family: Helvetica;
+font-size: 32px;
+font-weight: bold;
+color: white;
+
+}
+h3{
+    text-align: left;
+    font-family: Helvetica;
+    color: black;
+    
+}
+.gold{
+    color: black;
+    text-align: left;
+}
+.silver{
+    font-family: Helvetica;
+font-weight: bold;
+color: blue;
+}
+#frames{
+    background-color: lightcoral;
+    font-family: Helvetica;
+font-size: 32px;
+font-weight: bold;
+color: whit
+}
+#paint{
+    background-color: skyblue;
+    font-family: Helvetica;
+font-size: 32px;
+font-weight: bold;
+color: white
+}
